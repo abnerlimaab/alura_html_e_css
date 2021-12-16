@@ -6,6 +6,11 @@
 - font-size: define o tamanho da fonte
 - background: define o background do elemento
 - color: define a cor do elemento
+- width: define a largura do elemento
+- height: define a altura do elemento
+- border: define a borda do elemento
+- padding: define o espaçamento interno do elemento
+- margin: define o espaçamento externo do elemento
 
 ### Declaração
 
