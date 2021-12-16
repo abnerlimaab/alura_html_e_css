@@ -52,12 +52,20 @@ p {
 }
 ```
 
-#### Por estrutura no .css
+##### Por estrutura
 
 ```css
 /*define que a cor do elemento contido na tag strong e em respectivamente terá color: red*/
 em strong {
     color: red;
+}
+```
+
+##### Por identificador
+
+```css
+#missao {
+    font-size: 20px;
 }
 ```
 
