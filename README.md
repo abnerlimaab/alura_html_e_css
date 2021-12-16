@@ -2,8 +2,7 @@
 
 ### Propriedades
 
-- text-align: define o alinhamento do texto
-- font-size: define o tamanho da fonte
+#### Elemento
 - background: define o background do elemento
 - color: define a cor do elemento
 - width: define a largura do elemento
@@ -12,17 +11,23 @@
 - padding: define o espaçamento interno do elemento
 - margin: define o espaçamento externo do elemento
 
+#### Fonte
+- text-align: define o alinhamento do texto
+- font-size: define o tamanho da fonte
+- font-style: define o estilo da fonte
+
+
 ### Declaração
 
 #### In line
 
 ```html
 <p style="font-size: 20px">
-  <en
+  <em
     >Nossa missão é:
     <strong
       >"Proporcionar auto-estima e qualidade de vida aos clientes".</strong
-    ></en
+    ></em
   >
 </p>
 ```
@@ -71,6 +76,14 @@ em strong {
 ```css
 #missao {
     font-size: 20px;
+}
+```
+
+##### Por classes
+
+```css
+.itens {
+    font-style: italic;
 }
 ```
 
