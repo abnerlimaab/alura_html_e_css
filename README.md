@@ -10,6 +10,8 @@
 - border: define a borda do elemento
 - padding: define o espaçamento interno do elemento
 - margin: define o espaçamento externo do elemento
+- display: define se o elemento ocupará toda a linha ou parte dela.
+- vertical-align: define o alinhamento vertical do elemento
 
 #### Fonte
 - text-align: define o alinhamento do texto
