@@ -16,7 +16,6 @@
 - font-size: define o tamanho da fonte
 - font-style: define o estilo da fonte
 
-
 ### Declaração
 
 #### In line
